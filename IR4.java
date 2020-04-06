@@ -1,8 +1,6 @@
 /*******************************************************************************************************************
   * InputRoutinesWithScannerV4.java
   * Author: David A. Freitag
-  * CIS 129 - Programming and Problem Solving I 
-  * Pima Community College 
   ****************************************************************************************************************** 
   * This program gets input from a user using Scanner. 
   * Use at your own risk. Test your program well. No guarantee this code works in all situations. 
