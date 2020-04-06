@@ -3,7 +3,7 @@
  *  @author This program runs a match with an odd number of games playing Rock, Paper, Scissors, Lizard, Spock.
  *  @version CIS131, LAB 2
  */
-public class CIS131_HannahKlecan_Lab2 {
+public class RPSLS {
   
     public final static int MAX_NUMBER_OF_GAMES = 9;
     public final static int MIN_NUMBER_OF_GAMES = 1;
